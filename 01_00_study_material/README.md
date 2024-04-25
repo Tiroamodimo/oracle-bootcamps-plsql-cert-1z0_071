@@ -1,9 +1,5 @@
-# Study Material
+# Study Material for Complete Oracle SQL Bootcamp
 
-Study Material for this repo consists 2 courses:
+course link is [here](https://daemn.udemy.com/course/oracle-sql-12c-become-an-sql-developer-with-subtitle/learn/lecture/18019649#overview).
 
-1. [The Complete PL/SQL Bootcamp : "Beginner to Advanced PL/SQL"](01_complete_pl_sql_bootcamp/README.md)
-2. [The Complete Oracle SQL Bootcamp (2024)](02_complete_oracle_sql_bootcamp/README.md)
-
-
-[back to main readme](../README.md)
+[back to course readme](../README.md)
