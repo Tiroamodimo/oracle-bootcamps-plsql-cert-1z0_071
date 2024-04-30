@@ -57,6 +57,10 @@ performed initially
    
 1. follow [these instructions](oracle-volume/README.md)
 
+### restart exited container
+   ```
+    docker start  `docker ps -q -l`
+   ```
 
 ### Stop docker container
 1. stop docker
