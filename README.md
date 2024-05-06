@@ -55,7 +55,7 @@ performed initially
    docker exec <container name|id> resetPassword <your password>
    ```
    
-1. follow [these instructions](oracle-volume/README.md)
+1. follow [these instructions](99_db_setup/01_hr_schema/README.md)
 
 ### restart exited container
    ```

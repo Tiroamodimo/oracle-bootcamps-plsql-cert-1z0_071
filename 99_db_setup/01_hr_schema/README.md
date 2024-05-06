@@ -23,4 +23,4 @@ Here's the ERD of the HR schema used:
 
 source: https://github.com/bbrumm/databasestar/tree/main/sample_databases/oracle_hr
 
-[back to main readme](../README.md)
+[back to main readme](../../README.md)
